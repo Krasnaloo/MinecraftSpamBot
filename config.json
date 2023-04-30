@@ -1,16 +1,16 @@
 {
     "crackedusernameprefix": "BOT",
 
-    "ip": "server.com",
+    "ip": "ttvpanmaslo100.aternos.me:61447",
     "port": 25565,
-    "version": "1.12.2",
+    "version": "1.19.4",
 
     "loginintervalms": 1000,
 
     "altening": false,
     "altening_token": "",
 
-    "spammessage": "spam",
+    "spammessage": "beczka",
     "spamintervalms": 1500,
 
     "physics": false
